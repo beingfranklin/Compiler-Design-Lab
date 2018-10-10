@@ -43,9 +43,11 @@ iv) Write a program to implement arithmetic calculator.
 * Now Compile it together using gcc by typing `gcc y.tab.c lex.yy.c`.
 * Execute the `./a.out` file.
 
-### To Complete
+### Day 4
 
-4. Write program to design recursive descent parser
+4. Write a program to design a recursive descent parser.
+
+### To Complete
 
 5. Write a program to simulate `FIRST` and `FOLLOW` of any given grammar.
 
