@@ -79,3 +79,5 @@ iv) Write a program to implement arithmetic calculator.
 10. Write a program to design a code generator for arithmetic expressions.
 
 11. Write a program to find ε – closure of all states of any given NFA with ε transition.
+
+crazyyyy
